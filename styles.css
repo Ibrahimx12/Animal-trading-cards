@@ -1,0 +1,37 @@
+/* add your CSS here */
+
+#h3{
+  font-align: center;
+  font-size: 20px;
+}
+#interesting-facts{
+  font-style: italic;
+}
+.container{
+  background-color: #43412d;
+  display: flex;
+  width: 300px;
+  flex-wrap: wrap;
+  padding: 1em;
+  border: 5px solid black;
+}
+.background{
+  background-color: #63614d;
+  border: 5px solid black
+}
+body{
+  font-size:10px;
+}
+img{
+  background-color: #3d3c29;
+  width: 300px;
+}
+ul{
+  text-align: left;
+}
+li{
+	list-style: none;
+}
+span{
+    font-weight: bold;
+}
